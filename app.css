@@ -51,9 +51,10 @@ table {
 }
 
 /* Resting CSS DONE */
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 html{
     box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
 }
 
 body{
